@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "version": "appV1.0 Rev 0",
+    "generated_at": "2026-06-06T10:35:04Z"
+  },
+  "manga_id": "dragonslayers-peerless-regression",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "The Peerless Regression of the Dragon Slayer",
+  "status": "Ongoing",
+  "author": "Bicycle",
+  "artist": "Studio Inus",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 9.5,
+  "synopsis": "Bagi ras naga, umat manusia hanyalah serangga. Eugene, pahlawan ras manusia, berhasil membunuh Raja Naga Kegelapan dengan mengorbankan nyawanya. Namun, alih-alih mati, ia malah terbangun di masa lalu, tepat di hari sebelum Akademi Pemburu Naga dimulai. Dengan ingatan masa depannya, ia bersumpah untuk mengubah nasib umat manusia dan memburu semua naga hingga tak tersisa.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian dan Permulaan Baru",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Akademi Pemburu Naga",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/005.jpg"
+      ]
+    }
+  ]
+}
