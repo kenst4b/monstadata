@@ -1,47 +1,79 @@
-{
-  "_meta": {
-    "version": "appV1.0 Rev 0",
-    "generated_at": "2026-06-06T10:35:04Z"
+[
+  {
+    "id": "d018ced58c2ba5ea24b04c37cfe6671e0b32a82f",
+    "title": "Academy s Genius Swordmaster",
+    "path": "Adventure/Academy_s Genius Swordmaster.cbz",
+    "category": "Adventure",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Academy%20s%20Geniu"
   },
-  "manga_id": "dragonslayers-peerless-regression",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "The Peerless Regression of the Dragon Slayer",
-  "status": "Ongoing",
-  "author": "Bicycle",
-  "artist": "Studio Inus",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Adventure",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 9.5,
-  "synopsis": "Bagi ras naga, umat manusia hanyalah serangga. Eugene, pahlawan ras manusia, berhasil membunuh Raja Naga Kegelapan dengan mengorbankan nyawanya. Namun, alih-alih mati, ia malah terbangun di masa lalu, tepat di hari sebelum Akademi Pemburu Naga dimulai. Dengan ingatan masa depannya, ia bersumpah untuk mengubah nasib umat manusia dan memburu semua naga hingga tak tersisa.",
-  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Kematian dan Permulaan Baru",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Akademi Pemburu Naga",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/005.jpg"
-      ]
-    }
-  ]
-}
+  {
+    "id": "c07cdc4fe89eb70d3fb5e6e2e8b064fd14fe7eda",
+    "title": "Children of the Rune",
+    "path": "Adventure/Children of the Rune.cbz",
+    "category": "Adventure",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Children%20of%20the"
+  },
+  {
+    "id": "7d1b2739ea130372fe4c2e626138a66795c19480",
+    "title": "Chronicles Of The Martial God s Return",
+    "path": "Adventure/Chronicles Of The Martial God_s Return.cbz",
+    "category": "Adventure",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Chronicles%20Of%20T"
+  },
+  {
+    "id": "076acfc08c642a52a31f451c97f98aa240b8006b",
+    "title": "Genius Prismatic Mage",
+    "path": "Adventure/Genius Prismatic Mage.cbz",
+    "category": "Adventure",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Genius%20Prismati"
+  },
+  {
+    "id": "0e67a304bdf5946793da3e0f9f3389a3d7ccf488",
+    "title": "I Am the Fated Villain",
+    "path": "Romance/I Am the Fated Villain.cbz",
+    "category": "Romance",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=I%20Am%20the%20Fated%20"
+  },
+  {
+    "id": "d2f1c4b4fe5ef3c8f03d4d8e291d1d6a363cb018",
+    "title": "Nano Machine",
+    "path": "Romance/Nano Machine.cbz",
+    "category": "Romance",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Nano%20Machine"
+  },
+  {
+    "id": "008f680b958f520fc92a270abdb8bd1eb38319b5",
+    "title": "The Extra’s Academy Survival Guide",
+    "path": "Romance/The Extra’s Academy Survival Guide.cbz",
+    "category": "Romance",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=The%20Extra%E2%80%99s%20Aca"
+  },
+  {
+    "id": "6d83b22f3a8dbfa28707491c50e3cd6ce61bf751",
+    "title": "Villain To Kill",
+    "path": "Romance/Villain To Kill.cbz",
+    "category": "Romance",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Villain%20To%20Kill"
+  },
+  {
+    "id": "9271425d7392a6f947647262c71f60eae3628871",
+    "title": "Reformation of the Deadbeat Noble",
+    "path": "Sci-Fi/Reformation of the Deadbeat Noble.cbz",
+    "category": "Sci-Fi",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Reformation%20of%20"
+  },
+  {
+    "id": "3c94385d340bbe684fa27f51faafc5156ee4290e",
+    "title": "Solo Max Level Newbie",
+    "path": "Sci-Fi/Solo Max-Level Newbie.cbz",
+    "category": "Sci-Fi",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Solo%20Max%20Level%20"
+  },
+  {
+    "id": "f0662af69d12340c91275fb0d9ed3f0c74c9c25c",
+    "title": "Talent Swallowing Magician",
+    "path": "Sci-Fi/Talent-Swallowing Magician.cbz",
+    "category": "Sci-Fi",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Talent%20Swallowi"
+  }
+]
